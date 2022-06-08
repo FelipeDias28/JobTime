@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "573437438895",
+    "project_id": "fe-job-time",
+    "storage_bucket": "fe-job-time.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573437438895:android:3bb63ff8a597c779375d5a",
+        "android_client_info": {
+          "package_name": "br.com.academiadoflutter.job_time"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573437438895-m9h5e75difjeajhk4bg1d3qljvjq8uiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzN2r6kYDH9-Yawve-PfqwXDFSlFcEYxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573437438895-m9h5e75difjeajhk4bg1d3qljvjq8uiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
