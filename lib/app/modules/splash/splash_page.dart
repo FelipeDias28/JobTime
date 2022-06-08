@@ -6,10 +6,20 @@ class SplashPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('Splash'),
+      body: Container(
+        // fazer degrade da tela
+        decoration: const BoxDecoration(
+          gradient: LinearGradient(
+            colors: [
+              Color(0XFF0092B9),
+              Color(0XFF0167B2),
+            ],
+          ),
+        ),
+        child: Center(
+          child: Image.asset("assets/images/logo.png"),
+        ),
       ),
-      body: Container(),
     );
   }
 }
